@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique Gonçalves Pires</h1>
 <h3 align="center">Tech enthusiast with a focus on AI in development and data science. Eager to drive innovation in emerging technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phpire13&label=Profile%20views&color=0e75b6&style=flat-square" alt="phpire13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phpires13&label=Profile%20views&color=0e75b6&style=flat-square" alt="phpires13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phpire13" alt="phpire13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phpires13" alt="phpires13" /></a> </p>
 
 [//]: # (- 🔭 I’m currently working on [nome_projeto_0]&#40;link_projeto_0&#41;)
 
@@ -113,8 +113,8 @@
 
 <p align="left"> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phpire13&show_icons=true&locale=en&layout=compact" alt="phpire13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phpires13&show_icons=true&locale=en&layout=compact" alt="phpires13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phpire13&show_icons=true&locale=en" alt="phpire13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phpires13&show_icons=true&locale=en" alt="phpires13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phpire13&" alt="phpire13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phpires13&" alt="phpires13" /></p>
